@@ -16,3 +16,16 @@
   - Using the Univeristy Building as an example, University Building, classrooms are declraed as private, meaning, only authorized people can access it, while comfort rooms are declared as public, where visitors can access it.
 - Basic commands in linux terminal were also explained.
   - ` $ ls ` will list all the files and folders in the directory.
+  - ` $ mkdir ` will create a new directory.
+  - ` $ cd ` changes directory path
+  - ` $ rm ` to erase or remove a file or folder.
+  - By pressing the ctrl+p on your keyboard, the previous syntax, will be generated automatically.
+  - By pressing the ctrl+c  or ctrl+z, the current process will be terminated.
+  - By pressing the Tab Key on your keyboard, the syntax you are typing in will be auto completed.
+  - ` $ mv ` to move a file.
+  - ` $ pwd ` to check if directory exists.
+  - ` $ clear ` will clear the terminal.
+  - ` $ sudo apt-get install program ` will install a desired program.
+  - ` $ javac ` to compile the source code.
+  - ` $ java ` to run the source code.
+- A [HelloWorld](https://github.com/aenoncunanan/HelloWorld) Java program was also made during this session.
