@@ -34,6 +34,12 @@
 #SESSION 1 (Wednesday, February 3, 2016):
 ###Introduction
 
+- Having the basic knowledge in Java, I was able to create a [TruthTable](https://github.com/aenoncunanan/BooleanTable).
+
+
+#SESSION 2 (Wednesday, February 10, 2016):
+###Primitives
+
 - In this session, primitives were discussed.
 - Primitive data types are byte, short, int, long, float, double, boolean, and char.
 - You can modify the user's input like making the characters in an upper case or a lower case.
@@ -42,3 +48,23 @@
 - By importing the java.io class from java, you will be able to get inputs from the user.
 - Parsing can convert one data type to another data type.
 - Exercises [Characters](https://github.com/aenoncunanan/Characters), [SimpleCalculator](https://github.com/aenoncunanan/SimpleCalc), and [StringOutput](https://github.com/aenoncunanan/StringOutput) were made during this session.
+
+
+#SESSION 3 (Friday, February 12, 2016):
+###SynatxAndFlow
+
+- In this session, Syntax and Flow were discussed.
+- [If-else statements](https://github.com/aenoncunanan/Conditional) were used in primitives and complex data types.
+- When comparing primitive data types, equal sign, less than sign, and greater than sign can be used
+- `.equals("");` syntax should be used in comparing complex data types.
+- In Java, you can use strings, enumeration and integers in [switch cases](https://github.com/aenoncunanan/Switch).
+- There are four (4) types of [loops](https://github.com/aenoncunanan/Loops) that can be used in java:
+  - The conventional For-Loop:
+    - ` for (condition){statement} `
+  - The Each-For-Loop:
+    - ` for(:){statement} `
+  - The While-Loop:
+    - ` While (condition){statement} `
+  - The Do-While-Loop:
+    - ` Do {statement} While (condition); `
+- [Methods](https://github.com/aenoncunanan/Methods) were also discussed in this session, methods are like functions in C where you can also [pass an argument](https://github.com/aenoncunanan/MethodsWithArgs).
