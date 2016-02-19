@@ -29,3 +29,16 @@
   - ` $ javac ` to compile the source code.
   - ` $ java ` to run the source code.
 - A [HelloWorld](https://github.com/aenoncunanan/HelloWorld) Java program was also made during this session.
+
+
+#SESSION 1 (Wednesday, February 3, 2016):
+###Introduction
+
+- In this session, primitives were discussed.
+- Primitive data types are byte, short, int, long, float, double, boolean, and char.
+- You can modify the user's input like making the characters in an upper case or a lower case.
+- Boolean data types can accept only true or false, not 1 or 0.
+- Date can also be placed using the Date utility of Java.
+- By importing the java.io class from java, you will be able to get inputs from the user.
+- Parsing can convert one data type to another data type.
+- Exercises [Characters](https://github.com/aenoncunanan/Characters), [SimpleCalculator](https://github.com/aenoncunanan/SimpleCalc), and [StringOutput](https://github.com/aenoncunanan/StringOutput) were made during this session.
