@@ -11,3 +11,8 @@
   - Java is portable, meaning, it can be run in different operating systems (OS). The only requirement is that, the machine should have an installed JVM in it.
 - Class and Object were also introduced during the session using the house as an example.
 - Class is the blueprint of the house, and the object is the actual thing, the house.
+- Public and Private Classes were also discussed:
+  - Public Classes can be accessed by other classes while Private Classes is only accessible by a certain Class.
+  - Using the Univeristy Building as an example, University Building, classrooms are declraed as private, meaning, only authorized people can access it, while comfort rooms are declared as public, where visitors can access it.
+- Basic commands in linux terminal were also explained.
+  - ` $ ls ` will list all the files and folders in the directory.
