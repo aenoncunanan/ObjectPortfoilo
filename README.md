@@ -19,9 +19,9 @@
   - ` $ mkdir ` will create a new directory.
   - ` $ cd ` changes directory path
   - ` $ rm ` to erase or remove a file or folder.
-  - By pressing the ctrl+p on your keyboard, the previous syntax, will be generated automatically.
-  - By pressing the ctrl+c  or ctrl+z, the current process will be terminated.
-  - By pressing the Tab Key on your keyboard, the syntax you are typing in will be auto completed.
+  - By pressing the `ctrl+p` on your keyboard, the previous syntax, will be generated automatically.
+  - By pressing the `ctrl+c`  or `ctrl+z`, the current process will be terminated.
+  - By pressing the `Tab Key` on your keyboard, the syntax you are typing in will be auto completed.
   - ` $ mv ` to move a file.
   - ` $ pwd ` to check if directory exists.
   - ` $ clear ` will clear the terminal.
